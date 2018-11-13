@@ -53,18 +53,18 @@ postYearMonth2.push(c);
 postTanggal.push(g)}}}
 b();
 displayToc2();
-document.write('<br/><a href="https://escolaunhas.blogspot.com/p/mapa-do-site.html" style="font-size:9px;text-decoration:none; color: #616469;">Widget by Blog Elaine Gaspareto</a></br/>')}
+document.write('')}
 function displayToc2()
 {var a=0;
 var b=0;
 while(b<postTitle.length)
 {temp1=postYearMonth[b];
 document.write("<p/>");
-document.write('<p><a href="'+postYearMonth2[b]+'">'+temp1+"</a></p><ul>");
+document.write('<p><a href="'+postYearMonth2[b]+'" title="''">'+temp1+"</a></p><ul>");
 firsti=a;
 do
 {document.write("<li>");
-document.write("["+postTanggal[a]+'] <a href="'+postUrl[a]+'">'+postTitle[a]+"</a>");
+document.write("Dia: "+postTanggal[a]+' - <a href="'+postUrl[a]+'" title="'+postTitle[a]+'">'+postTitle[a]+"</a>");
 document.write("</li>");
 a=a+1}
 while(postYearMonth[a]==temp1);
