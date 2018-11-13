@@ -60,7 +60,7 @@ var b=0;
 while(b<postTitle.length)
 {temp1=postYearMonth[b];
 document.write("<p/>");
-document.write('<p><a href="'+postYearMonth2[b]+'" title="''">'+temp1+"</a></p><ul>");
+document.write('<p><a href="'+postYearMonth2[b]+'" title="'+temp1+'">'+temp1+"</a></p><ul>");
 firsti=a;
 do
 {document.write("<li>");
