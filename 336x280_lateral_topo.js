@@ -1,6 +1,6 @@
 // Link + Imagem
 var banner = [
-["https://go.hotmart.com/O8551550G?src=rotator_336x280_lateral_direita", "https://1.bp.blogspot.com/-oBJzcljZyDE/XE82YbQM7sI/AAAAAAAAAEY/ACyje9i0oSUctB7ThLJrt4ETdegIztcqACLcBGAs/s320/O8551550G_images_336x280.jpg"],
+["https://go.hotmart.com/O8551550G?src=rotator_336x280_lateral_topo", "https://1.bp.blogspot.com/-oBJzcljZyDE/XE82YbQM7sI/AAAAAAAAAEY/ACyje9i0oSUctB7ThLJrt4ETdegIztcqACLcBGAs/s320/O8551550G_images_336x280.jpg"],
 ];
 // Embaralha
 function shuffle(a) {
