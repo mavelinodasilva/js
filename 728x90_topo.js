@@ -32,4 +32,4 @@ function shuffle(a) {
 }
 shuffle(banner);
 // Printa
-document.getElementById('ads_topo').innerHTML = '<a href="'+banner[0][0]+'" target="_blank" rel="nofollow" title="CLIQUE AQUI PARA SABER MAIS..."><img src="'+banner[0][1]+'" style="width:100%;" alt="CLIQUE AQUI PARA SABER MAIS..." /></a>';
+document.getElementById('728x90_topo').innerHTML = '<a href="'+banner[0][0]+'" target="_blank" rel="nofollow" title="CLIQUE AQUI PARA SABER MAIS..."><img src="'+banner[0][1]+'" style="width:100%;" alt="CLIQUE AQUI PARA SABER MAIS..." /></a>';
