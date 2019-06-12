@@ -1,3 +1,4 @@
+// Link + Imagem
 var banner = [
 ["https://go.hotmart.com/A5166248S?src=rotator_topo", "https://3.bp.blogspot.com/-tkkdrWqNUDc/XE8YmdVAZ8I/AAAAAAAAACs/yCNwBTFbQMQ6ZLqekYOzg12BhapDdfBBQCLcBGAs/s1600/A5166248S_images_728x90.jpg"],
 ["https://go.hotmart.com/B7368341I?src=rotator_topo", "https://3.bp.blogspot.com/-c9X1_NChFpQ/XE8aOOQPYAI/AAAAAAAAAD0/2A_OZSMGtQYPcCYvcCHtCkWhD0RST8ZNgCLcBGAs/s1600/I2938479M_images_728x90.jpg"],
@@ -18,7 +19,7 @@ var banner = [
 ["https://go.hotmart.com/W5065217K?src=rotator_topo", "https://3.bp.blogspot.com/-zhE_C2MVaso/XE8YpMCus7I/AAAAAAAAADQ/puevLRWt1V4nrPEBs7UdrExavf3AgwP3gCLcBGAs/s1600/W5065217K_images_728x90.jpg"],
 ["https://go.hotmart.com/X7092466A?src=rotator_topo", "https://3.bp.blogspot.com/-edpWsLM2aeE/XE8aPEF8GlI/AAAAAAAAAEA/d_sPRKlyckgdqf1HFYlmDqH68OVGIf1HwCLcBGAs/s1600/X7092466A_images_728x90.jpg"]
 ];
-
+// Embaralha
 function shuffle(a) {
 	var j, x, i;
 	for (i = a.length - 1; i > 0; i--) {
@@ -29,7 +30,6 @@ function shuffle(a) {
 	}
 	return a;
 }
-
 shuffle(banner);
-
+// Printa
 document.getElementById('ads_topo').innerHTML = '<a href="'+banner[0][0]+'" target="_blank" rel="nofollow" title="CLIQUE AQUI PARA SABER MAIS..."><img src="'+banner[0][1]+'" style="width:100%;" alt="CLIQUE AQUI PARA SABER MAIS..." /></a>';
