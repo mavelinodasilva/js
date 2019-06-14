@@ -168,3 +168,4 @@ if (window.location.href.match("https://www.ainex.com.br/viver-de-vendas-e-comme
 if (window.location.href.match("https://www.ainex.com.br/viver-melhor-agora")) { window.location.href = "https://go.hotmart.com/Q7475449S"; } else 
 if (window.location.href.match("https://www.ainex.com.br/wordpress-essencial-para-iniciantes")) { window.location.href = "https://go.hotmart.com/Q5306000R"; }
 if (window.location.href.match("https://www.ainex.com.br/a-dieta-de-21-dias")) { window.location.href = "https://go.hotmart.com/U10272009C"; }
+return;
