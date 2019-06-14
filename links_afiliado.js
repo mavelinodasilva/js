@@ -38,7 +38,7 @@ if (window.location.href.match("https://www.ainex.com.br/curso-aprenda-ganhar-di
 if (window.location.href.match("https://www.ainex.com.br/curso-cara-da-foto")) { window.location.href = "https://go.hotmart.com/D7352139S"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-caricaturas")) { window.location.href = "https://go.hotmart.com/P10328694S"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-completo-de-capelania")) { window.location.href = "https://go.hotmart.com/E11232067H"; } else 
-if (window.location.href.match("https://www.ainex.com.br/curso-conserto-de-celular")) { window.location.href = "https://pay.hotmart.com/E7546984C"; } else 
+if (window.location.href.match("https://www.ainex.com.br/curso-conserto-de-celular")) { window.location.href = "https://go.hotmart.com/L14305080X"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-criar-site-profissional")) { window.location.href = "https://go.hotmart.com/A5290365R"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-cupcakes-sem-gluten-e-sem-leite")) { window.location.href = "https://go.hotmart.com/K7368762W"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-de-bacharel-em-teologia")) { window.location.href = "https://go.hotmart.com/E11232067H"; } else 
