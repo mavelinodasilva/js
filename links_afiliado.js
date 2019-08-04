@@ -36,7 +36,8 @@ if (window.location.href.match("https://www.ainex.com.br/curso-7-passos-para-tra
 if (window.location.href.match("https://www.ainex.com.br/curso-a-formula-do-tcc-nota-10")) { window.location.href = "https://go.hotmart.com/O7313861T"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-aprenda-ganhar-dinheiro-e-investir-em-lotericas")) { window.location.href = "https://go.hotmart.com/Y4767243N"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-cara-da-foto")) { window.location.href = "https://go.hotmart.com/D7352139S"; } else 
-if (window.location.href.match("https://www.ainex.com.br/curso-caricaturas")) { window.location.href = "https://go.hotmart.com/P10328694S"; } else 
+if (window.location.href.match("https://www.ainex.com.br/curso-caricaturas")) { window.location.href = "https://go.hotmart.com/I4188372M"; } else 
+if (window.location.href.match("https://www.ainex.com.br/meu-dinheiro-perdido-faca-uma-busca")) { window.location.href = "https://go.hotmart.com/X7409646B"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-completo-de-capelania")) { window.location.href = "https://go.hotmart.com/E11232067H"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-conserto-de-celular")) { window.location.href = "https://go.hotmart.com/L14305080X"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-criar-site-profissional")) { window.location.href = "https://go.hotmart.com/A5290365R"; } else 
@@ -111,7 +112,7 @@ if (window.location.href.match("https://www.ainex.com.br/formacao-de-professores
 if (window.location.href.match("https://www.ainex.com.br/formacao-de-professores-e-lideres-para-o-ministerio-infantil")) { window.location.href = "https://go.hotmart.com/E11232067H"; } else 
 if (window.location.href.match("https://www.ainex.com.br/formula-de-mixagem-de-audio")) { window.location.href = "https://go.hotmart.com/T7398788Y"; } else 
 if (window.location.href.match("https://www.ainex.com.br/formula-negocio-online")) { window.location.href = "https://go.hotmart.com/A3001198M"; } else 
-if (window.location.href.match("https://www.ainex.com.br/formula-oab-yt")) { window.location.href = "https://go.hotmart.com/L14280011T?src=youtubenicho"; } else 
+if (window.location.href.match("https://www.ainex.com.br/formula-oab-yt")) { window.location.href = "https://go.hotmart.com/J7314592A"; } else 
 if (window.location.href.match("https://www.ainex.com.br/frances-autentico")) { window.location.href = "https://go.hotmart.com/P7314474A"; } else 
 if (window.location.href.match("https://www.ainex.com.br/futuro-importador")) { window.location.href = "https://go.hotmart.com/V7265163O"; } else 
 if (window.location.href.match("https://www.ainex.com.br/guia-completo-do-pregador-iniciante")) { window.location.href = "https://go.hotmart.com/E11232067H"; } else 
@@ -150,7 +151,7 @@ if (window.location.href.match("https://www.ainex.com.br/perca-peso-de-vez")) { 
 if (window.location.href.match("https://www.ainex.com.br/poderosa-na-cama-prazeres-nao-convencionais")) { window.location.href = "https://go.hotmart.com/G3006387M"; } else 
 if (window.location.href.match("https://www.ainex.com.br/produto-eliminar-acne")) { window.location.href = "https://go.hotmart.com/O7879506Y"; } else 
 if (window.location.href.match("https://www.ainex.com.br/programa-comprar-eua")) { window.location.href = "https://go.hotmart.com/V7265163O"; } else 
-if (window.location.href.match("https://www.ainex.com.br/programa-relacionamento-na-pratica")) { window.location.href = "https://go.hotmart.com/N7085563T"; } else 
+if (window.location.href.match("https://www.ainex.com.br/programa-relacionamento-na-pratica")) { window.location.href = "https://go.hotmart.com/T10699423O"; } else 
 if (window.location.href.match("https://www.ainex.com.br/queima-de-gordura-abdominal")) { window.location.href = "https://go.hotmart.com/U7099464J"; } else 
 if (window.location.href.match("https://www.ainex.com.br/roupas-para-pet")) { window.location.href = "https://go.hotmart.com/K7440454B"; } else 
 if (window.location.href.match("https://www.ainex.com.br/sem-candidiase")) { window.location.href = "http://mon.net.br/1u6rk"; } else 
