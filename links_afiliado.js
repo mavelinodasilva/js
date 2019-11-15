@@ -1,5 +1,6 @@
 if (window.location.href.match("https://www.ainex.com.br/5-passos-para-a-sua-primeira-importacao")) { window.location.href = "https://go.hotmart.com/V7265163O"; } else 
 if (window.location.href.match("https://www.ainex.com.br/234")) { window.location.href = "https://go.hotmart.com/F3001144M"; } else 
+if (window.location.href.match("https://www.ainex.com.br/238")) { window.location.href = "https://go.hotmart.com/H9705758I"; } else 
 if (window.location.href.match("https://www.ainex.com.br/como-criar-um-jornal-digital-em-sua-cidade")) { window.location.href = "https://go.hotmart.com/D12461310I?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-crie-sites-de-video-em-piloto-automatico")) { window.location.href = "https://go.hotmart.com/A3004465M?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/instalador-energia-solar")) { window.location.href = "https://go.hotmart.com/L7183690S"; } else 
