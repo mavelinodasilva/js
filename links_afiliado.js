@@ -2,6 +2,7 @@ if (window.location.href.match("https://www.ainex.com.br/5-passos-para-a-sua-pri
 if (window.location.href.match("https://www.ainex.com.br/234")) { window.location.href = "https://go.hotmart.com/F3001144M"; } else 
 if (window.location.href.match("https://www.ainex.com.br/238")) { window.location.href = "https://go.hotmart.com/H9705758I"; } else 
 if (window.location.href.match("https://www.ainex.com.br/239")) { window.location.href = "https://go.hotmart.com/J9121745W"; } else 
+if (window.location.href.match("https://www.ainex.com.br/23b")) { window.location.href = "https://go.hotmart.com/C18246365G"; } else 
 if (window.location.href.match("https://www.ainex.com.br/como-criar-um-jornal-digital-em-sua-cidade")) { window.location.href = "https://go.hotmart.com/D12461310I?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-crie-sites-de-video-em-piloto-automatico")) { window.location.href = "https://go.hotmart.com/A3004465M?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/instalador-energia-solar")) { window.location.href = "https://go.hotmart.com/L7183690S"; } else 
