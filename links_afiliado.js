@@ -4,6 +4,7 @@ if (window.location.href.match("https://www.ainex.com.br/238")) { window.locatio
 if (window.location.href.match("https://www.ainex.com.br/239")) { window.location.href = "https://go.hotmart.com/J9121745W"; } else 
 if (window.location.href.match("https://www.ainex.com.br/23b")) { window.location.href = "https://go.hotmart.com/C18246365G"; } else 
 if (window.location.href.match("https://www.ainex.com.br/23c")) { window.location.href = "https://go.hotmart.com/O18246767Q"; } else 
+if (window.location.href.match("https://www.ainex.com.br/23d")) { window.location.href = "https://app.monetizze.com.br/r/AJH718997"; } else 
 if (window.location.href.match("https://www.ainex.com.br/como-criar-um-jornal-digital-em-sua-cidade")) { window.location.href = "https://go.hotmart.com/D12461310I?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/curso-crie-sites-de-video-em-piloto-automatico")) { window.location.href = "https://go.hotmart.com/A3004465M?ap=39ac"; } else 
 if (window.location.href.match("https://www.ainex.com.br/instalador-energia-solar")) { window.location.href = "https://go.hotmart.com/L7183690S"; } else 
