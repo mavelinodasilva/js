@@ -5,7 +5,7 @@ if (window.location.href.match("https://www.ainex.com.br/239")) { window.locatio
 if (window.location.href.match("https://www.ainex.com.br/23b")) { window.location.href = "https://go.hotmart.com/C18246365G"; } else 
 if (window.location.href.match("https://www.ainex.com.br/23c")) { window.location.href = "https://go.hotmart.com/O18246767Q"; } else 
 if (window.location.href.match("https://www.ainex.com.br/23d")) { window.location.href = "https://app.monetizze.com.br/r/AJH718997"; } else 
-if (window.location.href.match("https://www.ainex.com.br/23e")) { window.location.href = "https://app.monetizze.com.br/r/ALS5971264"; } else 
+if (window.location.href.match("https://www.ainex.com.br/23e")) { window.location.href = "https://app.monetizze.com.br/r/ALS5971264"; return false; } else 
 if (window.location.href.match("https://www.ainex.com.br/23g")) { window.location.href = "https://go.hotmart.com/V19438950D"; } else 
 if (window.location.href.match("https://www.ainex.com.br/23h")) { window.location.href = "https://go.hotmart.com/J7347588D"; } else 
 if (window.location.href.match("https://www.ainex.com.br/como-criar-um-jornal-digital-em-sua-cidade")) { window.location.href = "https://go.hotmart.com/D12461310I?ap=39ac"; } else 
