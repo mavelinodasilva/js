@@ -1,4 +1,5 @@
 if (window.location.href.match("https://www.ainex.com.br/5-passos-para-a-sua-primeira-importacao")) { window.location.href = "https://go.hotmart.com/V7265163O"; var link_afiliado = 1; } else 
+if (window.location.href.match("https://www.ainex.com.br/23j")) { window.location.href = "https://go.hotmart.com/A12516241S"; var link_afiliado = 1; } else 
 if (window.location.href.match("https://www.ainex.com.br/234")) { window.location.href = "https://go.hotmart.com/F3001144M"; var link_afiliado = 1; } else 
 if (window.location.href.match("https://www.ainex.com.br/238")) { window.location.href = "https://go.hotmart.com/H9705758I"; var link_afiliado = 1; } else 
 if (window.location.href.match("https://www.ainex.com.br/239")) { window.location.href = "https://go.hotmart.com/J9121745W"; var link_afiliado = 1; } else 
